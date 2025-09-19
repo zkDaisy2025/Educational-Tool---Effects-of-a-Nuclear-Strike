@@ -1,1 +1,1 @@
-An educational tool to estimate the casualties and damage to a city when a nuclear strike is made. The user selects two cities, the missle and the bast height from the given options. You then "fire" and watch the trajectory. The code gives a summary of the casualties and damge at the end.
+An educational tool to estimate the casualties and damage to a city when a nuclear strike is made. The user selects two cities, the missile and the blast height from the given options. You then "fire" and watch the trajectory. The code gives a summary of the casualties and damge at the end.
